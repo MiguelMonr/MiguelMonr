@@ -4,7 +4,7 @@ I'm Miguel Monreal, and I'm studying my bachelor's degree in Data Science.
 - 🔭 I’m currently working on perfecting my leetcode skills
 - 🌱 I’m currently learning how to work with data visualizations
 - 💬 Ask me about working with shapefiles
-- Hola 
+ 
 
 <!--
 **MiguelMonr/MiguelMonr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
