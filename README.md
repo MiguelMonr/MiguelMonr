@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img url="https://open.spotify.com/intl-es/track/2r57VV9roUrIEkNU8SSFkR?si=67058412d92d4d94" alt="Spotify recently played"  />
+  <img [[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=miguelmonreal1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)/>
 </div>
 
 ###
