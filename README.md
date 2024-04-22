@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Miguel Monreal and I'm a bachelors degree student , from ITAM.</h2>
+<h2 align="left">Hi 👋! My name is Miguel Monreal and I'm a bachelors degree student,from ITAM.</h2>
 
 ###
 
