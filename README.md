@@ -49,7 +49,7 @@
 
 ###
 
-<h1 align="left">Fell free to contact me!</h1>
+<h1 align="left">Feel free to contact me!</h1>
 
 ###
 
