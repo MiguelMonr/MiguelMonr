@@ -1,4 +1,4 @@
-<h2 align="left">Hi. Most of the people call me Mike!</h2>
+<h2 align="left">Hi! Most of the people call me Mike!</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h1 align="left">Feel free to contact me (just click the icons)!</h1>
+<h1 align="left">Feel free to contact me! (just click the icons )</h1>
 
 ###
 
@@ -65,6 +65,7 @@
 ###
 
 <div align="center">
+  <h1 align="left"> Get to know me a little bit more: my latest tracks</h1>
   <a href="https://open.spotify.com/user/miguelmonreal1">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=miguelmonreal1&count=5&unique=false" alt="Spotify recently played"  />
   </a>
