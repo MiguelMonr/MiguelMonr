@@ -1,4 +1,4 @@
-<h2 align="left">Hi!</h2>
+<h2 align="left">Hi. Most of the people call me Mike!</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h1 align="left">Feel free to contact me!</h1>
+<h1 align="left">Feel free to contact me (just click the icons)!</h1>
 
 ###
 
