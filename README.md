@@ -1,4 +1,4 @@
-<h2 align="left">Hi! Most of the people call me Mike!</h2>
+<h2 align="left">Hi! Most of the people call me Mike! I'm a data scientist who also likes to do backend work</h2>
 
 ###
 
